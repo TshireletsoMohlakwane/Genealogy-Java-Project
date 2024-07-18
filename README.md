@@ -1,9 +1,18 @@
-AUTHOR : Tshireletso Mohlakwane
-E-MAIL : tshiremohlakwane@gmail.com
-DATE : 14 Febuary 2024
+## Getting Started
 
-# Genealogy-Java-Project
-The purpose of this project was to create and test multiple methods to help process DNA . Strands of DNA are incredibly large and thus would take forever to process by hand.
-The project is to replace the need for a human to sort through and analyse DNA. Large files of DNA can then be easily processed to display certain results in a small time frame.
-The testing methods within are used to prove the accuracy of the logic used and boost confidence that DNA will be properly processed with minimal error.
-  
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
